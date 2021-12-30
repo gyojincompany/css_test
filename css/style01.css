@@ -10,6 +10,7 @@ h1 {
 }
 
 body {
-    background-image:url('../img/narrow_bg.png');
-    background-repeat:repeat-x;
+    background-image:url('../img/flower_bee.jpg');
+    background-repeat:no-repeat;
+    background-position:100px 50px;
 }
